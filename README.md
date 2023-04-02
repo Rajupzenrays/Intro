@@ -3,5 +3,5 @@
 - 🌱 I have 1.5+ year of experience in Reactjs, Nodejs,Redux, AdvanceJavascript, Express, Nextjs etc...
 - 💞️ I’m looking to collaborate on Live project with best mind of the world!
 - 📫 How to reach me ?
-Email me: raazuuprasain94@gmail.com
-Linkedin: https://www.linkedin.com/in/raju-prasain-162656183
+- Email me: raazuuprasain94@gmail.com
+- Linkedin: https://www.linkedin.com/in/raju-prasain-162656183
