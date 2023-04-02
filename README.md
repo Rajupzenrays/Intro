@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on Live project with best mind of the world!
 - 📫 How to reach me ?
 Email me: raazuuprasain94@gmail.com
+Linkedin: https://www.linkedin.com/in/raju-prasain-162656183
