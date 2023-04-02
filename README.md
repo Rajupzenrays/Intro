@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Rajupzenrays
-- 👀 I’m interested in Full Stack Devlopment
-- 🌱 I’m currently learning Reactjs, Nodejs, AdvanceJavascript, Express, Nextjs ....
-- 💞️ I’m looking to collaborate on Live project
+- 👋 Hi, I’m Raju Prasain
+- 👀 I’m a Full Stack Devloper
+- 🌱 I have 1.5+ year of experience in Reactjs, Nodejs,Redux, AdvanceJavascript, Express, Nextjs etc...
+- 💞️ I’m looking to collaborate on Live project with best mind of the world!
 - 📫 How to reach me ?
 Email me: raazuuprasain94@gmail.com
-
-<!---
-Rajupzenrays/Rajupzenrays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
